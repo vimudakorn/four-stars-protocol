@@ -1,9 +1,9 @@
 # problem
-# - user can play only 1 time , i the game has already done , it not send choice to choose
-# - it show Youn Turn before Game start in player 1
+# - user can play only 1 time , i the game has already done , it not send choice to choose "done"
+# - it show Youn Turn before Game start in player 1 
 # - when close the terminal it has an error
-# - handle in case of doesn't have this room number in rooms
-# - if player send 2 can this room doesn't exist , it cann't create room
+# - handle in case of doesn't have this room number in rooms "done"
+# - if player send 2 and this room doesn't exist , it cann't create room "done"
 # - bug in case of join room , sometimes don't show , show in wrong order , send waiting 2 times , doesn't send when the first user join
 
 import socket
